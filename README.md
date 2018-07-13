@@ -284,7 +284,7 @@ Go to [table of contents](#table-of-contents)
 - [Crypto Lions](http://cryptolions.io/)
 - [EOS Green](http://eosgreen.io/)
 - [EOS Oklahoma](https://eosoklahoma.com/)
-- [EOS Nairobi](http://eosnairobi.io/)
+- [EOS Nairobi](http://eosnairobi.io/) | Building solutions for Africa using the EOS Blockchain
 - [EOSoCal](https://eosocal.io)
 - [EOS Cannon](https://eoscannon.io/)
 - [EOS Costa Rica](https://eoscostarica.io/)
